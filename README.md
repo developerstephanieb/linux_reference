@@ -1,1 +1,3 @@
-# linux-reference
+# Linux Reference
+
+## Repository Structure
